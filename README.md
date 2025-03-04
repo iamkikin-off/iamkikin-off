@@ -1,4 +1,14 @@
-## Hi there 👋
+# ✨ IamKikin | most stupid cat on the net.
+
+**`A stupid cat that could program but is too lazy to do so.`**
+
+Hi! I'm Kikin (pronounced as: kickin) and i like to make games with Godot, program with Python, C# & Java, make designs & draw!
+
+<p align="left">
+  <a href="https://github.com/iamkikin-off?tab=repositories" title="My repos">
+    <img src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo">
+  </a>
+</p>
 
 <!--
 **iamkikin-off/iamkikin-off** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
