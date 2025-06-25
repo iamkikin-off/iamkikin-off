@@ -1,4 +1,4 @@
-# ✨ IamKikin | most stupid cat on the net.
+# ✨ 𝕀𝕒𝕞𝕂𝕚𝕜𝕚𝕟 | most stupid cat on the net.
 
 **`A stupid cat that could program but is too lazy to do so.`**
 
@@ -32,6 +32,7 @@ Hi! I'm Kikin (pronounced as: kickin) and i like to make games with Godot, progr
 
 <!-- Tools -->
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+<img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
