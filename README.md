@@ -1,7 +1,4 @@
-# ✨ 𝕀𝕒𝕞𝕂𝕚𝕜𝕚𝕟 | most stupid cat on the net.
-
-**`A stupid cat that could program but is too lazy to do so.`**
-
+# ✨ 𝕀𝕒𝕞𝕂𝕚𝕜𝕚𝕟
 Hi! I'm Kikin (pronounced as: kickin) and i like to make games with Godot, program with Python, C# & Java, make designs & draw!
 
 <p align="left">
