@@ -48,7 +48,7 @@ Hi! I'm Kikin (pronounced as: kickin) and i like to make games with Godot, progr
 <div align="left">
   <a href="https://github.com/iamkikin-off">
     <img alt="IamKikin's Stats" 
-         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamkikin-off&show_icons=true&count_private=true&theme=radical&border_color=00FFEE&bg_color=293332&title_color=FFFFFF&icon_color=00EAFF" 
+         src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamkikin-off&show_icons=true&count_private=true&theme=radical&border_color=F56342&bg_color=293332&title_color=F56342&icon_color=F56342" 
          height="195px" width="50.0%"/>
   </a>
 </div>
