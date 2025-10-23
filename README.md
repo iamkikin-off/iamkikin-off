@@ -1,5 +1,5 @@
 # ✨ 𝕀𝕒𝕞𝕂𝕚𝕜𝕚𝕟
-Hi! I'm Kikin (pronounced as: kickin) and i like to code & draw!
+Hi! I'm Kikin (pronounced as: kickin) and i like to code!
 
 <p align="left">
   <a href="https://github.com/iamkikin-off?tab=repositories" title="My repos">
