@@ -9,7 +9,7 @@ Hi! I'm Kikin (pronounced as: kickin) and i like to code!
 
 ---
 
-<h2>Languages 🖼️</h2>
+<h2>Languages i know or i'm learning 🖼️</h2>
 
 <!-- Languages -->
 <img align="left" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
